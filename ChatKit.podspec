@@ -7,7 +7,7 @@ Pod::Spec.new do |s|
   s.authors      = { "LeanCloud" => "support@leancloud.cn" }
   s.platform     = :ios, '7.0'
   s.frameworks   = 'Foundation', 'CoreGraphics', 'UIKit', 'MobileCoreServices', 'AVFoundation', 'CoreLocation', 'MediaPlayer', 'CoreMedia', 'CoreText', 'AudioToolbox','MapKit','ImageIO','SystemConfiguration','CFNetwork','QuartzCore','Security','CoreTelephony'
-  s.source       = { :git => "https://github.com/LeanCloud/ChatKit-OC.git", :tag => s.version.to_s }
+  s.source       = { :git => "https://github.com/451518849/ChatKit-OC.git", :tag => s.version.to_s }
   s.source_files  = 'ChatKit', 'ChatKit/**/*.{h,m}'
   s.vendored_frameworks = 'ChatKit/Class/Tool/Vendor/VoiceLib/lame.framework'
   s.resources    = 'ChatKit/Class/Resources/*', 'ChatKit/**/*.xib'
@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
   s.dependency "MJRefresh" , "~> 3.1.9"
   s.dependency "Masonry" , "~> 1.0.1"
   s.dependency "SDWebImage" , "~> 3.8.0"
-  s.dependency "FMDB" , "~> 2.6.2"
+  s.dependency "FMDB" , "~> 2.7.2"
   s.dependency "pop", "~> 1.0.9"
   s.dependency "UITableView+FDTemplateLayoutCell" , "~> 1.5.beta"
   s.dependency "FDStackView" , "~> 1.0"

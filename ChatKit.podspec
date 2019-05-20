@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name         = "ChatKit"
+  s.name         = "FakeChatKit"
   s.version      = "2.3.12"
   s.summary      = "An IM App Framework, support sending text, pictures, audio, video, location messaging, managing address book, more interesting features."
   s.homepage     = "https://github.com/LeanCloud/ChatKit-OC"

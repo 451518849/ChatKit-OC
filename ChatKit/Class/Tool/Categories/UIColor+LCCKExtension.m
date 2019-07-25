@@ -1,6 +1,5 @@
 //
 //  UIColor+CJ.m
-//  LinkLabelDemo
 //
 //  v0.8.5 Created by CoderJee on 15/4/14.
 //  Copyright (c) 2015年 com.huazhi. All rights reserved.
